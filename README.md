@@ -1,4 +1,4 @@
-<img src="" > </img>
+<img src="https://www.linkedin.com/in/dhruvkumar-yadav-665a57287/overlay/background-image/" > </img>
 <h1 align="center">Hi 👋, I'm Dhruv Yadav</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
