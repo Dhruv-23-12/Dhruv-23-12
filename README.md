@@ -1,4 +1,4 @@
-<img src="[https://www.linkedin.com/in/dhruvkumar-yadav-665a57287/overlay/background-image/](https://media.licdn.com/dms/image/v2/D5616AQHe_rapqm50lQ/profile-displaybackgroundimage-shrink_350_1400/B56ZUT7qx6GQAY-/0/1739796165863?e=1747267200&v=beta&t=PVXwE7dh56VrJ9jP2RP_RzPtaKKocR7QqdZCvB7a2JA)" > </img>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHe_rapqm50lQ/profile-di…96165863?e=1747267200&v=beta&t=PVXwE7dh56VrJ9jP2RP_RzPtaKKocR7QqdZCvB7a2JA" alt="Dhruvkumar Yadav" id="ember313" class="full-width evi-image ember-view"> </img>
 <h1 align="center">Hi 👋, I'm Dhruv Yadav</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
