@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/dhruv-23-12/dhruv-23-12/blob/main/banner.png" alt="Dhruv Kumar Yadav" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHe_rapqm50lQ/profile-displaybackgroundimage-shrink_350_1400/B56ZUT7qx6GQAY-/0/1739796165863?e=1759363200&v=beta&t=SCYyPYx2RYudUJUVqMXw6l_WjjZj5cT-9OGdDcgWk80" alt="Dhruv Kumar Yadav" />
 </p>
 
 <h1 align="center">Hi 👋, I'm DhruvKumar Yadav</h1>
