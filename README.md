@@ -25,16 +25,16 @@
   <a href="mailto:dhruvyadav231203@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/dhruv-yadav" target="blank">
+  <a href="https://www.linkedin.com/in/dhruvkumar-yadav-665a57287/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/it_s___d" target="blank">
+  <a href="https://www.instagram.com/it_s___d" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/" target="blank">
+  <a href="https://x.com/it_s___d" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://dev-hubs.vercel.app" target="blank">
+  <a href="https://vercel.com/dhruv-23-12s-projects" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
