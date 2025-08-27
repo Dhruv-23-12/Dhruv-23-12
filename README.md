@@ -10,6 +10,8 @@
 <p align="left">
 <a href="https://instagram.com/it_s___d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_s___d" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/dhruvkumar-yadav-665a57287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="it_s___d" height="30" width="40" /></a>
+  <a href="https://behance.net/shavuparmar" rel="nofollow"><img src="https://camo.githubusercontent.com/841522f……652d313…" alt="Behance" data-canonical-src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" style="max-width: 100%;"></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
