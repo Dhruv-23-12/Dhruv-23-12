@@ -41,7 +41,7 @@
 ### 🚀 Projects  
 Here are some of my highlighted works:  
 
-- 🌐 [**Portfolio Website**](https://github.com/dhruv-23-12/portfolio) — Showcasing my work & skills  
+- 🌐 [**Portfolio Website**](https://dhruvyadav.vercel.app/) — Showcasing my work & skills  
 - 💱 [**Currency Exchange App**](https://github.com/dhruv-23-12/currency-exchange) — Real-time currency conversion  
 - 🎮 [**Stone Paper Scissors**](https://github.com/dhruv-23-12/stone-paper-scissors) — Fun JavaScript game  
 - ❌⭕ [**Tic-Tac-Toe**](https://github.com/dhruv-23-12/tic-tac-toe) — Classic JS game  
